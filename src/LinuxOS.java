@@ -1,0 +1,5 @@
+interface LinuxOS  {
+    void openSource();
+
+
+}
